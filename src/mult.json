@@ -1,0 +1,65 @@
+{
+  "name": [
+    "Зверополис",
+    "Ральф",
+    "Ральф против интернета",
+    "Рататуй",
+    "Тайна Коко",
+    "Душа",
+    "Корпорация монстров",
+    "Семейка Аддамс"
+  ],
+  "date": [
+    "2016",
+    "2012",
+    "2018",
+    "2007",
+    "2017",
+    "2020",
+    "2001",
+    "2019"
+  ],
+  "genre": [
+    "Приключения/Семейные",
+    "Семейные/Зарубежные",
+    "Фэнтези/Комедия/Приключения",
+    "Семейные/Комедия",
+    "Фэнтези/Комедия/Семейные",
+    "Семейные/Комедия/Фэнтези",
+    "Приключения/Семейные",
+    "Фэнтези/Комедия/Семейные"
+  ],
+  "time": [
+    "1 ч 44 мин",
+    "1 ч 37 мин",
+    "1 ч 48 мин",
+    "1 ч 46 мин",
+    "1 ч 40 мин",
+    "1 ч 40 мин",
+    "1 ч 28 мин",
+    "1 ч 23 мин"
+  ],
+  "status": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "img": [
+    "https://kinohod.ru/o/9b/d9/9bd92944-ff52-4d77-bd5f-ccd2b5b0e217.jpg",
+    "https://www.megacritic.ru/media/reviews/photos/original/ec/b6/70/_kinopoisk.ru-wreck-it-ralph-1951848-1348573604.jpg",
+    "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS-Nbo3puHCsbFJyfMUxsLsvG6mddJAAl66HOZw9GnS79dlMztU",
+    "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRTUErn9OTS8-mhMsAY9X6Q53-jrH3HRZPoe0JZkJU-jf0jM-rr",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3dx8Jo7EEl5mDAqBO2AT1w3oKLgQvyyqPesr9qRD4rgN8ByC8",
+    "https://kinohod.ru/o/f3/40/f340268e-43e0-4f43-bbcb-3dd8a4ef27a0.jpg",
+    "https://upload.wikimedia.org/wikipedia/ru/thumb/1/14/Movie_poster_monsters_inc_2.JPG/274px-Movie_poster_monsters_inc_2.JPG",
+    "https://thumbs.dfs.ivi.ru/storage2/contents/4/5/ef79679c3e0dbb0d6bb17011b0a569.jpg",
+    ""
+  ],
+  "mark": [],
+  "link": []
+}
